@@ -1,5 +1,9 @@
 # GIT CHEATSHEET
 
+## Tags
+
+git tag '' && git push origin tags
+
 ## Logs
 
 git log --oneline
