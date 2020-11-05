@@ -3,6 +3,7 @@
 ## Commit
 
 git commit -m 'Force deployment' --allow-empty
+
 --allow-empty tag allows you to push an empty commit in certain use cases such as: when you need to trigger a force deployment.
 
 ## Tags
