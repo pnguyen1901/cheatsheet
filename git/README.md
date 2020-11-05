@@ -1,5 +1,11 @@
 # GIT CHEATSHEET
 
+## Branch
+
+To delete a remote branch
+
+git push origin -d (--delete) <branch name>
+
 ## Commit
 
 git commit -m 'Force deployment' --allow-empty
